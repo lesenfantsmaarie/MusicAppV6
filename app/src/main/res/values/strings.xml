@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="add_btn_text">Add</string>
+    <string name="title_hint">Title</string>
+    <string name="genre_hint">Genre</string>
+    <string name="image_hint">Image URL</string>
+    <string name="favorite_hint">Favorite</string>
+    <string name="delete_all">Delete all</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="id">ID</string>
+</resources>
